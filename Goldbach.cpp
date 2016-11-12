@@ -6,9 +6,6 @@ int checkPrime(int n);
 int main()
 {
 	int n, i, flag = 0;
-	int b = 55;
-	int c = 100;
-	int a = 70;
 
 	do 
 	{
